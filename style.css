@@ -21,6 +21,9 @@
   background: transparent;
   z-index: 1;
   max-width: 1296px;
+  margin: auto;
+  left: 0;
+  right: 0;
 }
 
 .main-logo {
